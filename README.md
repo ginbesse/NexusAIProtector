@@ -14,7 +14,7 @@ Bu proje, Termux üzerinde çalışan ve cihazı daha zor erişilir hale getiren
 ```bash
 pkg update && pkg install -y python git curl
 
-git clone <repo-url>
+git clone https://github.com/ginbesse/NexusAIProtector.git
 cd NexusAIProtector
 bash install.sh
 ```
